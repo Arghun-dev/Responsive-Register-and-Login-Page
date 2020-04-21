@@ -357,3 +357,8 @@ class App extends Component {
 
 ReactDOM.render(<App />, document.getElementById('app'));
 ```
+
+
+Now we're gonna build login functionality:
+
+in here we don't need to check the token, because actually we got the token
